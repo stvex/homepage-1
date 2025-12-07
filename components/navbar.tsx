@@ -27,7 +27,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 md:px-8">
         <div className="flex items-center justify-between">
           <Link href="/" className="text-white font-bold text-2xl tracking-tighter">
-            MONO<span className="text-neutral-400">.</span>
+            STVEX
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8">

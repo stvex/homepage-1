@@ -97,10 +97,10 @@ export default function Contact() {
                     Email
                   </div>
                   <a
-                    href="mailto:hello@mono.design"
+                    href="mailto:contact@stvex.com"
                     className="text-white hover:text-white/70 transition-colors"
                   >
-                    hello@mono.design
+                    contact@stvex.com
                   </a>
                 </div>
               </div>
@@ -114,10 +114,10 @@ export default function Contact() {
                     Phone
                   </div>
                   <a
-                    href="tel:+1234567890"
+                    href="tel:+13433213334"
                     className="text-white hover:text-white/70 transition-colors"
                   >
-                    +1 (234) 567-890
+                    1 343 321 3334
                   </a>
                 </div>
               </div>
@@ -131,11 +131,11 @@ export default function Contact() {
                     Address
                   </div>
                   <address className="not-italic text-white/80">
-                    123 Minimalist Street
+                    Software Development Company
                     <br />
-                    New York, NY 10001
+                    Specialized in Modern Technology
                     <br />
-                    United States
+                    AI • Blockchain • Automation • Web Development
                   </address>
                 </div>
               </div>

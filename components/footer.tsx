@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <div className="text-2xl font-bold tracking-tighter">
-              MONO<span className="text-neutral-400">.</span>
+              STVEX
             </div>
           </div>
           <div className="flex flex-col md:flex-row gap-8 md:items-center">
@@ -52,7 +52,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-6 pt-8 border-t border-neutral-800 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-neutral-400 text-sm mb-4 md:mb-0">© {new Date().getFullYear()} MONO. All rights reserved.</p>
+          <p className="text-neutral-400 text-sm mb-4 md:mb-0">© {new Date().getFullYear()} STVEX. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="text-neutral-400 hover:text-white transition-colors text-sm">
               Privacy Policy

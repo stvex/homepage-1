@@ -1,11 +1,9 @@
 
 ---
 
-# MONO – Creative Agency Portfolio Template (Next.js + Tailwind CSS)
+# STVEX – Software Development Company Website (Next.js + Tailwind CSS)
 
-**MONO** is a stylish and modern portfolio template built with **Next.js** and **Tailwind CSS**. Ideal for creative agencies, freelancers, and designers who want a bold, professional online presence.
-
-🔗 **Live Demo & Details:** [aniq-ui.com MONO Template](https://www.aniq-ui.com/en/templates/creative-agency-portfolio-nextjs-template)
+**STVEX** is a modern software development company specializing in AI, Blockchain, Business Automation, and Website design/development. Built with **Next.js** and **Tailwind CSS** for a professional, cutting-edge online presence.
 
 ## 🚀 Getting Started
 
@@ -52,12 +50,12 @@ To get started locally:
 * 📱 Fully responsive and mobile-ready
 * 🔄 Easy to customize and scale
 
-## 💬 Support
+## 💬 Contact
 
-For questions or support, contact the [Aniq UI team](https://www.aniq-ui.com/#contact).
-
----
-
-Created by [Aniq UI](https://www.aniq-ui.com) — Premium Next.js Templates for modern web apps.
+For questions or inquiries, contact STVEX:
+- Email: contact@stvex.com
+- Phone: 1 343 321 3334
 
 ---
+
+© 2025 STVEX. All rights reserved.

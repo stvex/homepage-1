@@ -14,27 +14,27 @@ export default function Features() {
   const features = [
     {
       icon: <Square className="w-6 h-6" />,
-      title: "Minimalist Design",
+      title: "AI Solutions",
       description:
-        "Clean, uncluttered interfaces that focus on content and functionality without unnecessary elements.",
+        "Leverage artificial intelligence to automate processes, gain insights, and enhance your business capabilities with cutting-edge AI technology.",
     },
     {
       icon: <Circle className="w-6 h-6" />,
-      title: "Brutalist Approach",
+      title: "Blockchain Development",
       description:
-        "Raw, honest design that embraces the digital medium without trying to mimic physical materials.",
+        "Build secure, decentralized applications and smart contracts using blockchain technology for transparency and trust.",
     },
     {
       icon: <Triangle className="w-6 h-6" />,
-      title: "Responsive Layout",
+      title: "Business Automation",
       description:
-        "Perfectly adapted experiences across all devices, from desktop to mobile, without compromise.",
+        "Streamline your operations with custom automation solutions that reduce manual work and increase efficiency.",
     },
     {
       icon: <Hexagon className="w-6 h-6" />,
-      title: "Performance Focus",
+      title: "Web Development",
       description:
-        "Lightning-fast loading times and smooth interactions for optimal user experience.",
+        "Modern, responsive websites and web applications built with the latest technologies for optimal performance and user experience.",
     },
   ];
 
@@ -99,13 +99,13 @@ export default function Features() {
           <div className="flex items-center gap-4 mb-6">
             <div className="h-px w-12 bg-white/40"></div>
             <div className="text-xs uppercase tracking-widest text-white/80">
-              Our Approach
+              What We Offer
             </div>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold tracking-tighter text-white">
-            Minimalist Design
+            Our Services
             <br />
-            <span className="text-white/70">Maximum Impact</span>
+            <span className="text-white/70">Modern Technology Solutions</span>
           </h2>
         </motion.div>
 

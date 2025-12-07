@@ -8,9 +8,9 @@ import type { Metadata } from 'next'; // Import Metadata type
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = { // Add Metadata type
-  title: "Mono - MINIMAL BRUTALIST DESIGN",
-  description: "We create minimalist digital experiences that make an impact. Raw, unfiltered, and straight to the point.",
-  generator: "Mohamed Djoudir",
+  title: "STVEX - Modern Software Development Company",
+  description: "STVEX specializes in modern tech solutions including AI, Blockchain, Business Automation, and Website design/development. Transform your business with cutting-edge technology.",
+  generator: "STVEX",
   // Add manifest and icons metadata
   manifest: "/site.webmanifest",
   icons: {
@@ -22,16 +22,16 @@ export const metadata: Metadata = { // Add Metadata type
   },
   // Add Open Graph metadata
   openGraph: {
-    title: "Mono - MINIMAL BRUTALIST DESIGN",
-    description: "We create minimalist digital experiences that make an impact. Raw, unfiltered, and straight to the point.",
-    url: "https://your-website-url.com", // Replace with your actual website URL
-    siteName: "Mono",
+    title: "STVEX - Modern Software Development Company",
+    description: "STVEX specializes in modern tech solutions including AI, Blockchain, Business Automation, and Website design/development. Transform your business with cutting-edge technology.",
+    url: "https://stvex.com", // Replace with your actual website URL
+    siteName: "STVEX",
     images: [
       {
         url: "/image.png", // Path to your image in the public folder
         width: 1200, // Optional: Specify image width
         height: 630, // Optional: Specify image height
-        alt: "Mono Website Preview", // Optional: Alt text for the image
+        alt: "STVEX Website Preview", // Optional: Alt text for the image
       },
     ],
     locale: "en_US", // Optional: Specify locale
@@ -40,8 +40,8 @@ export const metadata: Metadata = { // Add Metadata type
   // Optional: Add Twitter card metadata if needed
   twitter: {
     card: "summary_large_image",
-    title: "Mono - MINIMAL BRUTALIST DESIGN",
-    description: "We create minimalist digital experiences that make an impact. Raw, unfiltered, and straight to the point.",
+    title: "STVEX - Modern Software Development Company",
+    description: "STVEX specializes in modern tech solutions including AI, Blockchain, Business Automation, and Website design/development. Transform your business with cutting-edge technology.",
     // creator: "@yourTwitterHandle", // Optional: Your Twitter handle
     images: ["/image.png"], // Path to your image in the public folder
   },

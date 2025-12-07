@@ -48,26 +48,26 @@ export default function Hero() {
               className="mb-6"
             >
               <div className="inline-block border border-neutral-800 px-3 py-1 text-xs uppercase tracking-widest text-neutral-400">
-                Digital Design Studio
+                Software Development Company
               </div>
             </motion.div>
             <h1>
               <TextGenerateEffect
-                words="MINIMAL"
+                words="MODERN"
                 className="text-5xl md:text-7xl lg:text-8xl font-bold m-0 leading-tight tracking-tighter"
                 duration={0.5}
                 speed={0.2}
                 initialDelay={0.2}
               />
               <TextGenerateEffect
-                words="BRUTALIST"
+                words="TECH"
                 className="text-5xl md:text-7xl lg:text-8xl font-bold m-0 leading-tight tracking-tighter text-neutral-400"
                 duration={0.5}
                 speed={0.2}
                 initialDelay={0.4}
               />
               <TextGenerateEffect
-                words="DESIGN"
+                words="SOLUTIONS"
                 className="text-5xl md:text-7xl lg:text-8xl font-bold m-2 leading-tight tracking-tighter"
                 duration={0.5}
                 speed={0.2}
@@ -81,8 +81,8 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.4 }}
               className="text-neutral-400 mb-8 max-w-md text-lg"
             >
-              We create minimalist digital experiences that make an impact. Raw,
-              unfiltered, and straight to the point.
+              Specialized in AI, Blockchain, Business Automation, and Website design/development. 
+              Transform your business with cutting-edge technology.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}

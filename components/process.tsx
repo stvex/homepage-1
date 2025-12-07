@@ -20,14 +20,14 @@ export default function Process() {
     },
     {
       number: "03",
-      title: "Design",
-      description: "We create minimalist, brutalist designs that focus on functionality and user experience.",
+      title: "Design & Development",
+      description: "We create modern, user-centric designs and develop robust solutions using cutting-edge technologies like AI, Blockchain, and automation tools.",
     },
     {
       number: "04",
-      title: "Development",
+      title: "Integration & Testing",
       description:
-        "We build your digital product using modern technologies and best practices for optimal performance.",
+        "We integrate all components, test thoroughly, and ensure your solution works seamlessly across all platforms and devices.",
     },
     {
       number: "05",
